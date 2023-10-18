@@ -5,7 +5,8 @@ Repositório do treinamento "JavaScript: implementando modo dark " promivido pel
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -29,7 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é um treinamento utilizando JavaScript implementando modo dark.
 
-## 💻 Licença
+## 🔗 Link
+
+https://ofelia-1985.github.io/DarkModeAlura/
+
+## 🗝️ Licença
 
 Esse projeto está sob a licença MIT.
 
